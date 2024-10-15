@@ -1,0 +1,1 @@
+export type Category = 'hvac' | 'waterheater' | 'appliance' | '';
